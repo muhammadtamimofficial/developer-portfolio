@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.name{
+
+    color: orange;
+}
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 1%;
+    padding-top: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+.HIRE_ME{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 4px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(240, 159, 122),tomato);
+     
+}
+.HIRE_ME:hover{
+     color: #616161;
+     font-weight: 700;
+     background-color: orangered;
+     opacity: 0.8;
+     transition: .6s;
+}
