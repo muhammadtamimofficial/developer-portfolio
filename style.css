@@ -41,3 +41,8 @@ section{
      opacity: 0.8;
      transition: .6s;
 }
+
+.top_bennar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
