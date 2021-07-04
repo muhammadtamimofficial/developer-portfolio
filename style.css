@@ -92,12 +92,12 @@ div.shadow:hover{
 }
 #border{
     border-left:7px solid;
-    border-image:linear-gradient(salmon, rgb(238, 56, 56));
+    border-image:linear-gradient(rgb(245, 51, 29), rgb(243, 114, 114));
     border-image-slice: 1;
 }
 #border2{
     border-left:7px solid;
-    border-image:linear-gradient(rgb(74, 74, 197), rgb(238, 56, 56));
+    border-image:linear-gradient(rgb(251, 145, 145), rgb(65, 92, 248));
     border-image-slice: 1;
 }
 footer p {
