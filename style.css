@@ -14,7 +14,7 @@ h1{
     color: orange;
 }
 
-section{
+.display-section{
     display: flex;
 }
 
@@ -62,4 +62,7 @@ section.dream_big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.Experiences{
+    display:inline-block;
 }
