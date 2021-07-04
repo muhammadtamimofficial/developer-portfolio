@@ -92,9 +92,10 @@ div.shadow:hover{
 }
 #border{
     border-left:7px solid;
-    border-image:linear-gradient(blue rgb(238, 56, 56);
+    border-image:linear-gradient(blue, rgb(238, 56, 56));
     border-image-slice: 1;
 }
-footer{
+footer p {
     text-align: center;
+    background-color: gray;
 }
